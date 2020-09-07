@@ -1,0 +1,15 @@
+body{
+    margin:40px;
+    padding:0;
+    background-color: #fdfdfd;
+}
+/* form classes */
+.form{
+    margin:30px;
+    line-height: 40px;
+    padding:20px;
+}
+.legend{
+    margin: 30px;
+    
+}
